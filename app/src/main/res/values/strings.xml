@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Art Space App</string>
+    <string name="image_one_discription">SAFARI</string>
+    <string name="image_two_discription">AUDI</string>
+    <string name="image_three_discription">LAND ROVER</string>
+    <string name="image_four_discription">BUGATTI</string>
+    <string name="image_five_discription">BMW</string>
+    <string name="image_six_discription">FORTUNER</string>
+    <string name="image_seven_discription">TESLA</string>
+    <string name="image_eight_discription">JAGUAR</string>
+    <string name="image_nine_discription">HYUNDAI</string>
+    <string name="image_ten_discription">HONDA</string>
+    <string name="content_discription_one">The Tata Safari has 1 Diesel Engine on offer. The Diesel engine is 1956 cc . It is available with Manual and Automatic transmission.Depending upon the variant and fuel type the Safari has a mileage of 16.3 kmpl . The Safari is a 6 seater 4 cylinder car and has length of 4668, width of 1922 and a wheelbase of 2741.</string>
+    <string name="content_discription_two">The Audi R8 has 1 Petrol Engine on offer. The Petrol engine is 5204 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the R8 has a mileage of 5.71 kmpl and Ground clearance of R8 is 110mm. The R8 is a 2 seater 10 cylinder car and has length of 4426mm, width of 1940mm and a wheelbase of 2650mm.</string>
+    <string name="content_discription_three">There are a total of 7 Land Rover models currently on sale in India. These include 7 SUVs. Land Rover has 2 upcoming car launches in India - the Land Rover Defender, Land Rover Range Rover Evoque 2024.</string>
+    <string name="content_discription_four">Bugatti founded in 1909 by Ettore Bugatti is a maker of high end limited edition super fast cars. Volkswagen Group, the German auto giant took possession of the French automobile company in the year 2000, under Volkswagen France. Bugatti is now entering the Indian market with Bugatti Veyron, the worlds fastest car.</string>
+    <string name="content_discription_five">The BMW 7 Series has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2993 cc while the Petrol engine is 2998 cc . It is available with Automatic transmission.Depending upon the variant and fuel type the 7 Series has a mileage of . The 7 Series is a 5 seater 6 cylinder car and has length of 5391mm, width of 2192mm and a wheelbase of 3215mm.</string>
+    <string name="content_discription_six">The Toyota Fortuner has 1 Diesel Engine and 1 Petrol Engine on offer. The Diesel engine is 2755 cc while the Petrol engine is 2694 cc . It is available with Manual and Automatic transmission.Depending upon the variant and fuel type the Fortuner has a mileage of 10.0 kmpl . The Fortuner is a 7 seater 4 cylinder car and has length of 4795mm, width of 1855mm and a wheelbase of 2745mm.</string>
+    <string name="content_discription_seven">Tesla Motors, one of the biggest names in the automobile industry, is an American electric car manufacturer. The company was founded by Martin Eberhard and Marc Tarpenning in 2003. The company is currently the best selling plug-in and battery electric car manufacturer in the world. It now exports its models to over 30 countries. Tesla Inc started its stint with the Roadster model in 2008.</string>
+    <string name="content_discription_eight">There are a total of 3 Jaguar models currently on sale in India. These include 2 SUVs and 1 Coupe. Jaguar car prices in India: The price of Jaguar cars in India starts from Rs. 78.46 Lakh for the F-Pace while the most expensive Jaguar car in India one is the I-Pace with a price of Rs. 1.24 Cr. The newest model in the Jaguar line-up is the F-TYPE with a price tag of Rs. 99.98 Lakh - 1.53 Cr.</string>
+    <string name="content_discription_nine">There are a total of 13 Hyundai models currently on sale in India. These include 3 Hatchbacks, 8 SUVs and 2 Sedans. Hyundai has 9 upcoming car launches in India - the Hyundai Staria, Hyundai Creta 2024, Hyundai Stargazer, Hyundai Alcazar 2023, Hyundai Kona Electric 2024, Hyundai Tucson 2024, Hyundai Palisade, Hyundai Santa Fe 2025, Hyundai IONIQ 6.</string>
+    <string name="content_discription_ten">There are a total of 4 Honda models currently on sale in India. These include 3 Sedans and 1 SUV. Honda has 2 upcoming car launches in India - the Honda WR-V, Honda Elevate EV.</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+</resources>
